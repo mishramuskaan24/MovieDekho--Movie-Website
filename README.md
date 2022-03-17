@@ -34,6 +34,7 @@
 <hr>
 <h2>Live Link For The Project:</h2>
 <p>https://moviedekhoo.netlify.app/ </p>
+<br>
 
 <h2>Screenshots of the Project:</h2>
 
